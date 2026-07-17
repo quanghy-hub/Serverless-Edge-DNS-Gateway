@@ -879,6 +879,8 @@ async function handleRequest(request, context) {
     <string>Serverless Edge DNS Gateway - ${host}</string>
     <key>PayloadIdentifier</key>
     <string>com.cloudflare.${uuid2}</string>
+    <key>PayloadScope</key>
+    <string>System</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
