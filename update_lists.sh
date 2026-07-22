@@ -35,6 +35,7 @@ https://raw.githubusercontent.com/bibicadotnet/blocklist_minimal/main/blocklists
 https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt \
 https://big.oisd.nl/domainswild \
 https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt \
+https://easylist.to/easylist/easylist.txt \
 | extract_domains > "$BLOCK_TMP"
 
 echo "Downloading and processing allowlists..."
