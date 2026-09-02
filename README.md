@@ -7,6 +7,12 @@ A secure, high-performance DNS-over-HTTPS (DoH) proxy running on Cloudflare's gl
   <img src="https://img.bibica.net/0Biaw3bp.webp" alt="ECS">
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=GRUVWBHA360">
+    <img src="https://img.youtube.com/vi/GRUVWBHA360/maxresdefault.jpg" alt="Watch on YouTube">
+  </a>
+</p>
+
 ---
 
 ## ⚡ Key Features

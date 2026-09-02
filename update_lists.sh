@@ -41,6 +41,7 @@ https://easylist.to/easylist/easylist.txt \
 echo "Downloading and processing allowlists..."
 curl -fsSL --max-time 60 \
 https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/whitelist.txt \
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Whitelists/Whitelist \
 | extract_domains > "$ALLOW_TMP"
 
 # Di chuyển file tmp vào thư mục đích
